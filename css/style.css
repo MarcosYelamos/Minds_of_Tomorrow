@@ -45,7 +45,7 @@ body {
 padding-left: 10%;
 padding-top: 7%;
 padding-right: 12%;
-font-size: 60px;
+font-size: 52px;
 
 
 }
@@ -83,8 +83,17 @@ font-size: 60px;
     font-size: 70px;
     padding-bottom: 6%;
     padding-top: 5%;
+    padding-right: 1%;
+    padding-left: 1%;
 }
-
+.a {
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 6%;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
 .imagenes {
     width: 100%;
     padding-top: 5%;
@@ -94,11 +103,10 @@ font-size: 60px;
 }
 
 .texto-imagen {
-    text-align: center;
-    color: black;
+    text-align:center;
     padding-top: 6%;
+    font-size: 12px;
     
-
 }
 
 .imagen2 {
@@ -159,6 +167,76 @@ font-size: 60px;
 }
 
 @media screen and (max-width:700px) {
+    .encabezado{
+        padding: 2%;
+        font-size: 110px;
+    }
 
+    .column2 {
+        width: 100%;
+    }
+    .imagen1 {
+        padding: 5%;
+    }
 
+    .column4 {
+        width: 50%;
+    }
+    .texto-imagen {
+        font-size: 20px;
+        
+    }
+
+    .parrafo3{
+        font-size: 50px;
+    }
+
+    .imagen2 {
+        padding-top: 1%;
+        padding-bottom: 0%;
+        
+    }
+
+    .a {
+        font-size: 50px;
+    }
+
+    .column20{
+        width: 50%;
+    }
+  .column30{
+    width: 50%;
+    }
+
+    .copy{
+        font-size: 28px;
+        padding-left: 10%;
+        padding-top: 20%;
+    }
+    .facebook{
+        font-size: 28px;
+        padding-left: 20%;
+        padding-top: 0%;
+    }
+    
+    .instagram {
+        font-size: 28px;
+        padding: 0%;
+        padding-left: 20%;
+    }
+    
+    .programs{
+        font-size: 28px;
+        padding: 0%;
+        padding-bottom: 5%;
+        
+    }
+    
+    .studio {
+        font-size: 28px;
+        padding: 0%;
+        padding-bottom: 30%;
+       
+    }
 }
+
