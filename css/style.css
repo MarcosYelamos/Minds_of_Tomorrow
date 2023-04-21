@@ -45,7 +45,7 @@ body {
 padding-left: 10%;
 padding-top: 7%;
 padding-right: 12%;
-font-size: 70px;
+font-size: 60px;
 
 
 }
@@ -55,6 +55,7 @@ font-size: 70px;
     padding-top: 7%;
     padding-right: 12%;
     font-size: 40px;
+    padding-bottom: 7%;
 
 }
 
@@ -74,12 +75,13 @@ font-size: 70px;
 .column4 {
     width: 25%;
     float: left;
+    font-size: 0%;
 }
 
 .parrafo3{
     text-align: center;
     font-size: 70px;
-    padding-bottom: 12%;
+    padding-bottom: 6%;
     padding-top: 5%;
 }
 
@@ -94,11 +96,21 @@ font-size: 70px;
 .texto-imagen {
     text-align: center;
     color: black;
+    padding-top: 6%;
     
 
 }
 
 .imagen2 {
     width: 100%;
-    padding: 10%;
+    padding: 12%;
+    
+}
+
+.imagen4 {
+    width: 100%;
+}
+
+.azul {
+    background-color:#13B6D6;
 }
