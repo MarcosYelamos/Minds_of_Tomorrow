@@ -114,3 +114,25 @@ font-size: 60px;
 .azul {
     background-color:#13B6D6;
 }
+
+.negro {
+    background-color: black;
+    color: white;
+}
+
+.copy{
+  padding: 12%;
+}
+
+.column20{
+    width: 20%;
+    float: left;
+}
+
+.column30{
+    width: 30%;
+    float: left;
+}
+
+
+
