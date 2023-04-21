@@ -121,18 +121,44 @@ font-size: 60px;
 }
 
 .copy{
-  padding: 12%;
+ padding: 12%;
 }
 
 .column20{
     width: 20%;
     float: left;
+    padding: 0%;
+    flex-direction: column;
 }
 
 .column30{
     width: 30%;
     float: left;
+    padding: 0%;
+    flex-direction: column;
 }
 
+.facebook{
+    padding-top: 30%;
+    padding-bottom: 5%;
+    
+}
+
+.instagram {
+    padding: bottom 15%;
+}
+
+.programs{
+    padding-top: 19.7%;
+    padding-bottom: 4%;
+    
+}
+
+.studio {
+    padding-bottom: 15%;
+}
+
+@media screen and (max-width:700px) {
 
 
+}
